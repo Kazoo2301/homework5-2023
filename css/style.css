@@ -44,7 +44,6 @@ header{
     padding-bottom: 20px;
     border-top-left-radius: 50px;
     border-top-right-radius: 50px;
-    margin-bottom: 0px;
 }
 
 /* turns both the card contents and the pricing card layout into flex displays, work in tandem to match spec */
